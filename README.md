@@ -8,8 +8,10 @@ IntentFlow is a research-driven session recommendation project. It studies wheth
 
 1. [Project specification](docs/00-project-specification.md) — problem, research questions, focused V1, architecture, evaluation, and acceptance criteria.
 2. [Learning roadmap](docs/01-learning-roadmap.md) — staged 85% learning / 15% building plan.
-3. [Collaboration guide](docs/02-collaboration-guide.md) — what you own and how Codex supports without taking the learning away.
-4. [Version history](docs/versions/README.md) — each major project direction in its own file.
+3. [Self-study course](docs/learning/README.md) — lessons, exercises, and curated references, in order.
+4. [Build plan](docs/03-build-plan.md) — concrete tasks, first ten study days, and ownership split.
+5. [Collaboration guide](docs/02-collaboration-guide.md) — what you own and how Codex supports without taking the learning away.
+6. [Version history](docs/versions/README.md) — each major project direction in its own file.
 
 ## V1 constraints
 
@@ -20,4 +22,4 @@ IntentFlow is a research-driven session recommendation project. It studies wheth
 - Learned ANN retrieval, neural ranking, and advanced intent models remain optional experiments.
 - No experimental results are claimed until measured.
 
-This repository starts with documentation only. Learn the concepts, run small experiments, and implement the system yourself; use Codex as a coach and reviewer.
+This repository contains the project plan and learning materials. Learn the concepts, run the exercises, and implement the system yourself; use Codex as a tutor and reviewer.

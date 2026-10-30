@@ -24,5 +24,5 @@ IntentFlow is a research-driven session recommendation project. It studies wheth
 - Learned ANN retrieval, neural ranking, and advanced intent models remain optional experiments.
 - No experimental results are claimed until measured.
 
-This repository contains the project plan and self-study material, not an implementation. You lead the learning, design decisions, coding, and experiment runs. The documents are designed to be usable independently; no mentor or chat check-in is required. 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
+This repository contains the project plan and self-study material, not an implementation. You lead the learning, design decisions, coding, and experiment runs. The documents are designed to be usable independently; no mentor or chat check-in is required. 
 
